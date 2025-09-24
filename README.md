@@ -12,9 +12,9 @@ atau uploader shell yang memberikan kontrol penuh terhadap sistem.
 1. Pengguna memasukkan file (contoh: urls.txt) yang berisi daftar URL target.
 2. Tool ini akan melakukan permintaan HTTP (GET request) ke setiap URL.
 3. Isi halaman diperiksa, apakah mengandung indikasi shell, seperti:
-   file → sering muncul di file manager shell.
-   uname -a → digunakan untuk melihat informasi sistem.
-   system( → fungsi PHP untuk mengeksekusi perintah OS.
+file → sering muncul di file manager shell.
+uname -a → digunakan untuk melihat informasi sistem.
+system( → fungsi PHP untuk mengeksekusi perintah OS.
 
 Jika ditemukan, URL dianggap mengandung shell dan disimpan ke dalam file output (LifeTimeWorkingShells.txt dan Found.txt).
 
