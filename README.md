@@ -44,5 +44,7 @@ LifeTimeWorkingShells.txt → File log shell aktif (redundan untuk keperluan bac
 📚 Contoh Kasus Penggunaan (Use Case):
 
 Admin website  : Mengecek apakah ada shell tertinggal setelah website kena deface.
+
 Bug hunter / security researcher  : Melakukan audit terhadap daftar situs target yang rawan shell upload.
+
 Penetration tester  : Melacak shell yang tertinggal setelah exploit tertentu.
