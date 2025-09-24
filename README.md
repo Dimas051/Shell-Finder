@@ -19,7 +19,7 @@ atau uploader shell yang memberikan kontrol penuh terhadap sistem.
 Jika ditemukan, URL dianggap mengandung shell dan disimpan ke dalam file output (LifeTimeWorkingShells.txt dan Found.txt).
 
 ⚙️ Fitur-Fitur Utama:
-Fitur	Deskripsi
+
 ✅ Multithreading    : Menggunakan ThreadPool (default 10 thread) untuk mempercepat scanning.
 
 🎨 Output Berwarna   : Menggunakan modul colorama untuk membuat tampilan lebih jelas dan menarik.
