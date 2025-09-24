@@ -21,9 +21,13 @@ Jika ditemukan, URL dianggap mengandung shell dan disimpan ke dalam file output 
 ⚙️ Fitur-Fitur Utama:
 Fitur	Deskripsi
 ✅ Multithreading    : Menggunakan ThreadPool (default 10 thread) untuk mempercepat scanning.
+
 🎨 Output Berwarna   : Menggunakan modul colorama untuk membuat tampilan lebih jelas dan menarik.
+
 🧠 Auto Save Result  : URL yang terdeteksi otomatis disimpan ke file log.
+
 💡 Error Handling    : Menangani error seperti 404, timeout, URL salah, dsb.
+
 🚀 Mudah Digunakan   : Antarmuka berbasis terminal yang langsung meminta input dan mulai scanning.
 
 📥 Input:
