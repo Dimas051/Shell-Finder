@@ -1,3 +1,4 @@
+![alt text](https://h.top4top.io/p_3554w1z8i1.png?raw=true)
 Mass Shell Finder adalah sebuah alat berbasis Python yang digunakan untuk mendeteksi keberadaan shell/backdoor yang tersembunyi di situs web, dengan cara melakukan pemeriksaan massal (massive scanning) terhadap daftar URL yang diberikan.
 
 🎯 Tujuan Utama:
