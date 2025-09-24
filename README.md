@@ -27,10 +27,13 @@ Fitur	Deskripsi
 🚀 Mudah Digunakan   : Antarmuka berbasis terminal yang langsung meminta input dan mulai scanning.
 
 📥 Input:
+
 File teks (misal: urls.txt) yang berisi daftar URL target, satu URL per baris.
 
 📤 Output:
+
 Found.txt → Daftar URL yang terdeteksi mengandung shell.
+
 LifeTimeWorkingShells.txt → File log shell aktif (redundan untuk keperluan backup/dokumentasi).
 
 📚 Contoh Kasus Penggunaan (Use Case):
